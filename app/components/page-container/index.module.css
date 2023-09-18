@@ -1,0 +1,16 @@
+.contentContainer {
+    width: 100%;
+    max-width: 1200px;
+    min-height: 70vh;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+.listContiner {
+    min-width: 50%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px
+}
